@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteNet", "WhiteNet\WhiteNet.csproj", "{920C6211-6052-45DB-8ABB-C0075DA31B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920C6211-6052-45DB-8ABB-C0075DA31B20}.Debug|x86.ActiveCfg = Debug|x86
+		{920C6211-6052-45DB-8ABB-C0075DA31B20}.Debug|x86.Build.0 = Debug|x86
+		{920C6211-6052-45DB-8ABB-C0075DA31B20}.Release|x86.ActiveCfg = Release|x86
+		{920C6211-6052-45DB-8ABB-C0075DA31B20}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27531B0B-ACBC-42D4-97E5-33666046C4F9}
+	EndGlobalSection
+EndGlobal
