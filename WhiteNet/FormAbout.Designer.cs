@@ -86,9 +86,9 @@
             this.label7.ForeColor = System.Drawing.Color.Green;
             this.label7.Location = new System.Drawing.Point(194, 110);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(162, 13);
+            this.label7.Size = new System.Drawing.Size(156, 13);
             this.label7.TabIndex = 5;
-            this.label7.Text = "A Network Monitoring Tools";
+            this.label7.Text = "A Network Monitoring Tool";
             // 
             // label2
             // 
